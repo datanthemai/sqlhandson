@@ -1,1 +1,5 @@
 git class
+
+Day1 - around 35+ questions  solved
+Day2 - around 12 questions  solved 
+Day3 - complete joins exercises solved and discussed some sql joins
